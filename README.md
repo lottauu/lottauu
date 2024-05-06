@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lottauu
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Bootstrap and JavaScript techniques
 - 📫 How to reach me LinkedIn Lotta Uutela
 - 😄 Pronouns: she/her
 
